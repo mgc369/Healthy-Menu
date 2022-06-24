@@ -1,0 +1,76 @@
+body {
+    display: grid;
+    font-family: cursive;
+    font-size: 117%;
+    /*background-image: url("images/veg4.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;*/
+    background: rgb(142, 142, 142);
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+table, tr, td{
+    border: black 3px solid;
+    border-collapse: collapse;
+}
+
+td {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.toleft {
+    text-align: left;
+}
+
+th, td {
+    text-align: center;
+}
+
+img {
+    position: absolute;
+    width: 8%;
+}
+
+div {
+    margin-top: 50px;
+    margin-left: -20px;
+}
+
+#imgo {
+    border-radius: 10px;
+    margin-left: -800px;
+    transform: rotate(-19deg);
+}
+
+#imgt {
+    border-radius: 10px;
+    margin-left: -500px;
+    transform: rotate(20deg);
+}
+
+#imgth {
+    border-radius: 10px;
+    margin-left: -200px;
+    transform: rotate(-20deg);
+}
+
+#imgf {
+    border-radius: 10px;
+    margin-left: 100px;
+    transform: rotate(20deg);
+}
+
+#imgst {
+    border-radius: 10px;
+    margin-left: 400px;
+    transform: rotate(-20deg);
+}
+
+#imgsv {
+    border-radius: 10px;
+    margin-left: 700px;
+    transform: rotate(20deg);
+}

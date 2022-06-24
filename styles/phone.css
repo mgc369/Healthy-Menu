@@ -1,0 +1,54 @@
+body {
+    font-size: 180%;
+}
+
+div {
+    margin-left: -170px;
+}
+
+table {
+    margin-left: 170px;
+    width: 90%;
+}
+
+#imgo {
+    border-radius: 10px;
+    margin-left: -700px;
+    transform: rotate(-19deg);
+}
+
+#imgt {
+    border-radius: 10px;
+    margin-left: 0px;
+    margin-top: 160px;
+    transform: rotate(20deg);
+}
+
+#imgth {
+    border-radius: 10px;
+    margin-left: -100px;
+    transform: rotate(-20deg);
+}
+
+#imgf {
+    border-radius: 10px;
+    margin-left: 140px;
+    transform: rotate(20deg);
+}
+
+#imgst {
+    border-radius: 10px;
+    margin-left: 370px;
+    transform: rotate(-20deg);
+}
+
+#imgsv {
+    border-radius: 10px;
+    margin-left: 300px;
+    margin-top: 160px;
+    transform: rotate(20deg);
+}
+
+img {
+    width: 40%;
+}
